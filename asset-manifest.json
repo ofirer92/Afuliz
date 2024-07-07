@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Afuliz/static/css/main.5d0e49e1.css",
+    "main.js": "/Afuliz/static/js/main.295605cb.js",
+    "index.html": "/Afuliz/index.html",
+    "main.5d0e49e1.css.map": "/Afuliz/static/css/main.5d0e49e1.css.map",
+    "main.295605cb.js.map": "/Afuliz/static/js/main.295605cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0e49e1.css",
+    "static/js/main.295605cb.js"
+  ]
+}
